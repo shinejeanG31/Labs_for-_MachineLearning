@@ -7,5 +7,6 @@ The lab is to develop gradient-based algorithm to estimate regression coefficien
 **Lab2**
 The lab is to have insight of Cross Validation and Model Selection through comparison of the SSE with different models.
 
-** **
-- Notes: The lab is requred to use only basic libaray of Python.
+# Getting Started
+The lab is requred to use only basic libaray of Python(Numpy, Pandas and Matplotlib).
+
